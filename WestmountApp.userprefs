@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{39DD2BDB-4E1F-437C-8886-B7BADAE63E5C}|Default">
+  <MonoDevelop.Ide.ItemProperties.WestmountApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2B5817E6-7463-4885-818C-A8ECECCBE5EE" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WestmountApp/WestmountApp/NewsCard.cs">
+    <Files>
+      <File FileName="WestmountApp/WestmountApp/App.xaml.cs" Line="18" Column="9" />
+      <File FileName="WestmountApp/WestmountApp/MainPage.xaml.cs" Line="15" Column="26" />
+      <File FileName="WestmountApp/WestmountApp/MainPage.xaml" Line="36" Column="1" />
+      <File FileName="WestmountApp/WestmountApp/App.xaml" Line="20" Column="15" />
+      <File FileName="WestmountApp/WestmountApp/LandingPage.xaml" Line="17" Column="15" />
+      <File FileName="WestmountApp/WestmountApp/LandingPage.xaml.cs" Line="21" Column="13" />
+      <File FileName="WestmountApp/WestmountApp/NewsPage.xaml" Line="24" Column="14" />
+      <File FileName="WestmountApp/WestmountApp/NewsPage.xaml.cs" Line="18" Column="27" />
+      <File FileName="WestmountApp/WestmountApp/CardViewer.xaml" Line="13" Column="15" />
+      <File FileName="WestmountApp/WestmountApp/CardViewer.xaml.cs" Line="24" Column="4" />
+      <File FileName="WestmountApp/WestmountApp/ImageCard.cs" Line="46" Column="11" />
+      <File FileName="WestmountApp/WestmountApp/RSS.cs" Line="7" Column="23" />
+      <File FileName="WestmountApp/WestmountApp/NewsCard.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WestmountApp.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

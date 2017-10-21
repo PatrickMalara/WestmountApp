@@ -1,11 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:WestmountApp"
              x:Class="WestmountApp.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <MasterDetailPage.Master>
+        <ContentPage
+            Title="Master">
+            <StackLayout Margin="10">
+                <Label Text="Menu" TextColor="{StaticResource GlobHeadingClr}"/>
+                <Button Text="Home" BackgroundColor="AliceBlue" TextColor ="{StaticResource GlobBodyClr}" HeightRequest="50" FontSize="Medium" Clicked="On_Clicked_Home" Margin="0">
+                </Button>
+                <Button Text="NewsFeed" BackgroundColor="AliceBlue" TextColor ="{StaticResource GlobBodyClr}" HeightRequest="50" FontSize="Medium" Clicked="On_Clicked" Margin="0">
 
-</ContentPage>
+
+            </Button>
+                
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+        <ContentPage
+            Title="Detail"
+            BackgroundColor="{StaticResource GlobBackClr}">
+
+        </ContentPage>
+    </MasterDetailPage.Detail>
+
+
+
+
+
+</MasterDetailPage>

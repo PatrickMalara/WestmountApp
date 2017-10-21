@@ -1,57 +1,130 @@
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\WestmountApp.iOS.exe
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\WestmountApp.iOS.pdb
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll.mdb
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll.mdb
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\obj\iPhoneSimulator\Debug\optimized\
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\obj\iPhoneSimulator\Debug\WestmountApp.iOS.csprojResolveAssemblyReference.cache
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\obj\iPhoneSimulator\Debug\WestmountApp.iOS.MainPage.xaml.g.cs
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\obj\iPhoneSimulator\Debug\WestmountApp.iOS.App.xaml.g.cs
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\obj\iPhoneSimulator\Debug\WestmountApp.iOS.exe
-C:\Users\Owner\Documents\WestmountApp\WestmountApp\WestmountApp\WestmountApp.iOS\obj\iPhoneSimulator\Debug\WestmountApp.iOS.pdb
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/WestmountApp.iOS.exe
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/WestmountApp.iOS.pdb
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.xml
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll.mdb
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll.mdb
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/optimized/
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/WestmountApp.iOS.csprojResolveAssemblyReference.cache
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/WestmountApp.iOS.MainPage.xaml.g.cs
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/WestmountApp.iOS.App.xaml.g.cs
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/WestmountApp.iOS.exe
+C:/Users/Owner/Documents/WestmountApp/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/WestmountApp.iOS.pdb
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/WestmountApp.iOS.exe
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/WestmountApp.iOS.pdb
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.xml
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll.mdb
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/actool/_PartialAppManifest.items
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/actool/_BundleResourceWithLogicalName.items
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Default-568h@2x.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Default-Portrait.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Default-Portrait@2x.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Default.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Default@2x.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Icon-60@2x.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Icon-60@3x.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Icon-76.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Icon-76@2x.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Icon-Small-40.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Icon-Small-40@2x.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Icon-Small-40@3x.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Icon-Small.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Icon-Small@2x.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/Icon-Small@3x.png
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.0/optimized/
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/WestmountApp.iOS.csprojResolveAssemblyReference.cache
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/WestmountApp.iOS.csproj.CoreCompileInputs.cache
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/WestmountApp.iOS.MainPage.xaml.g.cs
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/WestmountApp.iOS.App.xaml.g.cs
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/WestmountApp.iOS.exe
+/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.iOS/obj/iPhoneSimulator/Debug/WestmountApp.iOS.pdb

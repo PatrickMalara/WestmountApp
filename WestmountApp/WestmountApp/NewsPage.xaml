@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WestmountApp.NewsPage"
+             Icon= "drawable/iconHome_02"
+             Title="NewsFeed"
+             
+             >
+
+
+    <ContentPage Title="NEWS">
+        <ScrollView x:Name="scroll" BackgroundColor="{StaticResource GlobCardBackClr}">
+            <StackLayout x:Name="Feed" Padding="5" >
+
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+        
+        
+
+
+
+</TabbedPage>

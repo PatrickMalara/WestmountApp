@@ -1,10 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Application xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="WestmountApp.App">
-	<Application.Resources>
+    <Application.Resources>
 
-		<!-- Application resource dictionary -->
+        <!-- Application resource dictionary -->
+        <ResourceDictionary>
+            <Color x:Key="GlobBackClr">#DDE9F4</Color>
+            <Color x:Key="GlobHeadingClr">#65ABD8</Color> <!-- Shivering Jaguar -->
+            <Color x:Key="GlobBodyClr">#6F96B3</Color> <!-- Shivering Jaguar -DarkShade -->
 
-	</Application.Resources>
+            <Color x:Key="GlobBarClr">#508FD6</Color>
+            <Color x:Key="GlobCardPopClr">#405BB5</Color>
+            <Color x:Key="GlobCardBackClr">#A6CDF9</Color>
+            <!-- Shivering Jaguar -DarkShade -->
+        </ResourceDictionary>
+            
+    </Application.Resources>
 </Application>
