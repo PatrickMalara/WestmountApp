@@ -1,45 +1,45 @@
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/WestmountApp.Android.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/FormsViewGroup.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Android.Support.Animated.Vector.Drawable.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Android.Support.Design.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Android.Support.v4.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.AppCompat.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.CardView.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.MediaRouter.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.RecyclerView.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Android.Support.Vector.Drawable.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Java.Interop.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Mono.Android.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/mscorlib.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Core.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Xml.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Xml.Linq.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Runtime.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.ComponentModel.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Xml.ReaderWriter.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Reflection.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Collections.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Diagnostics.Debug.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Threading.Tasks.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.ObjectModel.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Globalization.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Linq.Expressions.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.IO.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Dynamic.Runtime.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Threading.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Runtime.Extensions.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Linq.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Reflection.Extensions.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Net.Http.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Text.RegularExpressions.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Collections.Concurrent.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/System.Runtime.InteropServices.dll
-/Users/Patrick/Documents/WESTMOUNT APP DEVELOPMENT/WestmountApp/WestmountApp/WestmountApp.Android/obj/Debug/android/assets/Mono.Security.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\WestmountApp.Android.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\FormsViewGroup.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Java.Interop.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\mscorlib.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Core.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Xml.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Runtime.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.ComponentModel.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Reflection.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Collections.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.ObjectModel.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Globalization.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.IO.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Dynamic.Runtime.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Threading.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Linq.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Text.RegularExpressions.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+C:\Users\Hayden\Source\Repos\WestmountApp\WestmountApp\WestmountApp.Android\obj\Debug\android\assets\Mono.Security.dll
