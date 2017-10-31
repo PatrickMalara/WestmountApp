@@ -53,13 +53,13 @@ namespace WestmountApp
 
 				rssNode = rssItems.Item(i).SelectSingleNode("description");
 				rssItem.description = (rssNode != null) ? rssNode.InnerXml : "";
-                rssItem.description = rssItem.description.Substring(9, (rssItem.description.Length - 9) - 3);
+                		rssItem.description = rssItem.description.Substring(9, (rssItem.description.Length - 9) - 3);
 				rssItem.description = WebUtility.HtmlDecode(rssItem.description);
 
 				rssNode = rssItems.Item(i).SelectSingleNode("link");
 				rssItem.link = (rssNode != null) ? rssNode.InnerText : "";
 
-				rssNode = rssItems.Item(i).SelectSingleNode("pubData");//publication date
+				rssNode = rssItems.Item(i).SelectSingleNode("pubDate");//publication date
 				rssItem.date = (rssNode != null) ? rssNode.InnerText : "";
 
 				tempRssItems.Add(rssItem);
