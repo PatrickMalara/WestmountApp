@@ -24,16 +24,20 @@ namespace WestmountApp
         public string link { get; set; }
 
         public string tag { get; set; }
+        public int ID { get; set; }
+        public DateTime formmatedDate { get; set; }
     }
 
     public class RSS
     {
 
         public List<item> items;
+        public int ID;
 
-        public RSS(string rssChannel)
+        public RSS(string rssChannel, int id)
         {
             items = getRssData(rssChannel);
+            ID = id;
         }
 
         private string _getTag(string description) {
@@ -113,7 +117,14 @@ namespace WestmountApp
 
                 rssNode = rssItems.Item(i).SelectSingleNode("pubDate");
                 rssItem.date = (rssNode != null) ? rssNode.InnerText : "";
+                string fDate= String.Format("{0:dd/MM/yyyy hh:mm tt}", DateTime.Parse(rssItem.date.Remove(rssItem.date.IndexOf(" +"))));
+                int day = int.Parse(fDate.Substring(0, 2));
+                int month = int.Parse(fDate.Substring(3, 2));
+                int year = int.Parse(fDate.Substring(6, 4));
+                rssItem.formmatedDate = new DateTime(year, month, day);
                 rssItem.date = rssItem.date.Substring(0, 16);
+
+                rssItem.ID = ID;
 
                 tempRssItems.Add(rssItem);
             }
